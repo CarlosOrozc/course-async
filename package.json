@@ -2,7 +2,9 @@
   "name": "course-async",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {},
